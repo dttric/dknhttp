@@ -1,4 +1,1 @@
-{
-	"port": 8080,
-	"path": "/test"
-}
+{ "port": 8080, "path": "test" }
