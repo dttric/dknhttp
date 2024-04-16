@@ -1,5 +1,5 @@
 # dknhttp
-[![Go Reference](https://pkg.go.dev/badge/github.com/dttric/dknhttp.svg)](https://pkg.go.dev/github.com/dttric/dknhttp)
+[![Go Reference](https://pkg.go.dev/badge/github.com/dttric/dknhttp.svg)](https://pkg.go.dev/github.com/dttric/dknhttp) [![Github](https://img.shields.io/badge/github-dttric/dknhttp-blue?logo=github)](https://github.com/dttric/dknhttp)
 
 
 > Простое решение, создан для простого выкладывания ***статического*** сайта.
